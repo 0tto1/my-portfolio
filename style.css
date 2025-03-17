@@ -1,6 +1,4 @@
-body {
-    background: dark-blue;
-    color: white;
+body {;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -24,9 +22,9 @@ button {
 }
 .light-mode {
     background: white;
-    color: dark-blue;
+    color: black;
 }
 .dark-mode {
-    background: dark-blue;
+    background: black;
     color: white;
 }
